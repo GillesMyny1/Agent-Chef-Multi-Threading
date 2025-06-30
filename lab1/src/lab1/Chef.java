@@ -6,7 +6,6 @@ package lab1;
  * the two ingredients and checks if those ingredients do not match 
  * that Chef's specific ingredient.
  * @author Gilles Myny
- * @id 101145477
  */
 import java.util.*;
 
