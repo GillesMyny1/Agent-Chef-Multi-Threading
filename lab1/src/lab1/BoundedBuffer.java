@@ -8,7 +8,6 @@ package lab1;
  * BoundedBuffer, lastly the peek() method which allows the Chef thread to check the contents
  * of the BoundedBuffer.
  * @author Gilles Myny
- * @id 101145477
  */
 
 import java.util.*;
