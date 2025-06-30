@@ -5,7 +5,6 @@ package lab1;
  * the BoundedBuffer, the Agent thread, and all three Chef threads with
  * their own ingredients. Lastly, the class starts all the threads.
  * @author Gilles Myny
- * @id 101145477
  */
 
 public class Restaurant {
