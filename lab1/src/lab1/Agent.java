@@ -6,7 +6,6 @@ package lab1;
  * a randomizer method, randomNum() which chooses a random number, a run() method which runs
  * the addRandomIngredients() method if the total number of sandwiches made is less than 19 (counting 0).
  * @author Gilles Myny
- * @id 101145477
  */
 
 import java.util.*;
